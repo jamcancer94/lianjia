@@ -26,7 +26,8 @@ tab2 = client[dbName][dbTable2]
 
 header = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36',}
 
-cookie = {'Cookie': 'all-lj=007e0800fb44885aa2065c6dfaaa4029; lianjia_uuid=03fa8b2a-3e74-44f8-90f1-7c1d170e91f3; _jzqy=1.1486989264.1487154044.1.jzqsr=baidu|jzqct=%E9%93%BE%E5%AE%B6.-; _jzqckmp=1; select_city=440300; _jzqx=1.1487164436.1487221856.2.jzqsr=sz%2Elianjia%2Ecom|jzqct=/xiaoqu/.jzqsr=sz%2Elianjia%2Ecom|jzqct=/xiaoqu/cro21/; _smt_uid=58a1a7cf.38dc469b; CNZZDATA1255849469=1669532160-1486985492-http%253A%252F%252Fbzclk.baidu.com%252F%7C1487224449; CNZZDATA1254525948=1024209759-1486984312-http%253A%252F%252Fbzclk.baidu.com%252F%7C1487221927; CNZZDATA1255633284=398859508-1486985724-http%253A%252F%252Fbzclk.baidu.com%252F%7C1487222774; CNZZDATA1255604082=2027433198-1486986231-http%253A%252F%252Fbzclk.baidu.com%252F%7C1487220488; _qzja=1.2087132298.1486989263881.1487213710568.1487221855922.1487223580959.1487224891365.0.0.0.58.5; _qzjb=1.1487221855920.7.0.0.0; _qzjc=1; _qzjto=19.2.0; _jzqa=1.1590252034770900000.1486989264.1487213711.1487221856.5; _jzqc=1; _jzqb=1.7.10.1487221856.1; _ga=GA1.2.1213470030.1486989266; lianjia_ssid=c31b2d96-680c-46b3-b5d3-0083a529784e'}
+cookie = {'Cookie': 'xxxxxx'}
+ 
 # 代理
 proxies = {
     "http": "xxxxx"
